@@ -1,0 +1,1 @@
+# Termux-all-pakeges-in-one-click
